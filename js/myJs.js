@@ -114,7 +114,7 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Tại seoo dzị tớ rất là tò mò đóa, nói tớ nghe đêi ♡'>",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Tớ dễ thưn đúnn khum ♡'>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
